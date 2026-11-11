@@ -321,6 +321,5 @@ By combining compiler implementation with an interactive dashboard, the project 
 
 **Abhi Raksha**
 
-GitHub: [Add your GitHub Profile]
 
 LinkedIn: [Abhi Raksha](https://www.linkedin.com/in/abhi-raksha-9b3b80369/)
